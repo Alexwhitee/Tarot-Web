@@ -31,6 +31,7 @@ export async function onRequestPost({ request }) {
         "body": JSON.stringify(body),
         "method": "POST"
     });
+    //ceshi
     // const res = await fetch("https://yunwu.ai/v1/chat/completions", {
     //   "headers": {
     //     "authorization": "sk-grjnxTvlBKkvMLNCoEUfdHAf4LtzCE74Vism3L3fbgdhFgqJ",
