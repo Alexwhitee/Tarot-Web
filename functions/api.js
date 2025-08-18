@@ -642,7 +642,7 @@ ${spreadCards.map((card, index) => {
         { "role": "user", "content": userMessage }
       ],
       "temperature": 0.6,
-      "max_tokens": 90000
+      "max_tokens": 9000
     };
 
     console.log('=== 智谱API请求体信息 ===');
